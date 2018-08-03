@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="content.xslt"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Feed</title>
+    <link>https://flipboard.com/@raimoseero/feed-nii8kd0sz</link>
+    <atom:link href="https://flipboard.com/@raimoseero/feed-nii8kd0sz?rss" rel="self" type="application/rss+xml" />
+    <description></description>
+    <pubDate>Wed, 25 Jul 2018 09:45:06 GMT</pubDate>
+    <generator>Flipboard</generator>
+    <item>
+      <title>ASP.NET Core Razor Pages Vs MVC: Which Will Create Better Web Apps in 2018?</title>
+      <link>https://hackernoon.com/asp-net-core-razor-pages-vs-mvc-which-will-create-better-web-apps-in-2018-bd137ae0acaa</link>
+      <guid isPermaLink="false">flipboard-L6hiqi7HQQm1XyT_pP8cog:a:1376366263-1532201060</guid>
+      <pubDate>Sat, 21 Jul 2018 19:24:20 GMT</pubDate>
+      <author>Zealous System</author>
+      <description>&#x26;lt;i&#x26;gt;Brace yourself because this is going to be a lengthy but informative article!&#x26;lt;/i&#x26;gt;&#x26;lt;p&#x26;gt;With the release of new ASP.NET Core 2 framework, Microsoft and its …</description>
+      <media:content url="https://cdn-images-1.medium.com/max/2000/1*uNRwVvXgVaVZcTt8S2hYIg.png" medium="image" type="image/png" width="1100" height="700" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Global Cloud ERP Market 2018 Top Vendors are SAP SE, Infor, Microsoft Corporation,The Sage Group plc, Epicor Software Corporation, Sage Intacct, Inc., FinancialForce</title>
+      <link>https://www.openpr.com/news/1125688/Global-Cloud-ERP-Market-2018-Top-Vendors-are-SAP-SE-Infor-Microsoft-Corporation-The-Sage-Group-plc-Epicor-Software-Corporation-Sage-Intacct-Inc-FinancialForce.html</link>
+      <guid isPermaLink="false">flipboard-JSx9ttY-T42ENur6kwFsLA:a:1376366263-1531683632</guid>
+      <pubDate>Sun, 15 Jul 2018 19:40:32 GMT</pubDate>
+      <description>Global Cloud ERP Market – Industry Trends and Forecast to 2024&#x26;lt;p&#x26;gt;Global Cloud ERP Industry 2018 Global Market Research report 2018 covers a detailed …</description>
+      <media:content url="https://www.openpr.com//images/articles/R/7/R71372907_m.jpg" medium="image" type="image/jpeg" width="250" height="166" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Microsoft Teams gets a free version</title>
+      <link>https://techcrunch.com/2018/07/12/microsoft-teams-gets-a-free-version/</link>
+      <guid isPermaLink="false">flipboard-ePOzR0wJTyaQ5oWy-J79dw:a:1376366263-1531683059</guid>
+      <pubDate>Sun, 15 Jul 2018 19:30:59 GMT</pubDate>
+      <author>Brian Heater</author>
+      <description>Microsoft opened up the news floodgates this morning, in the kick off to its annual Inspire event in Vegas. One of the more compelling announcements of the bunch is the addition of a free version of Teams.&#x26;lt;p&#x26;gt;The Slack competitor has been kicking around in some form or other since late-2016, but the …</description>
+      <media:content url="https://cdn.flipboard.com/techcrunch.com/b03d1c071a89ccfd2c4aec067975e44ce355e698/original.jpg" medium="image" type="image/jpeg" width="533" height="400" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Javascript Framework Comparison with Examples (React, Vue &#x26; Hyperapp)</title>
+      <link>https://hackernoon.com/javascript-framework-comparison-with-examples-react-vue-hyperapp-97f064fb468d</link>
+      <guid isPermaLink="false">flipboard-2rDCo3W9S0q5yG-Ejv1q9Q:a:1376366263-1531329072</guid>
+      <pubDate>Wed, 11 Jul 2018 17:11:12 GMT</pubDate>
+      <author>Angelos Chalaris</author>
+      <description>In my previous article, I tried to explain why I think Hyperapp is a viable alternative to React or Vue and the reasons I found it easier to get …</description>
+      <media:content url="https://cdn-images-1.medium.com/max/2000/1*SqyC-DRj22wZRBiI-NOiwA.png" medium="image" type="image/png" width="1816" height="813" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Mapster - Your next level object to object mapping tool</title>
+      <link>https://www.codeproject.com/Articles/1249355/Mapster-Your-next-level-object-to-object-mapping-t</link>
+      <guid isPermaLink="false">flipboard-zkfQuH7pQ3e3s_7VIALvbQ:a:1376366263-1529836875</guid>
+      <pubDate>Sun, 24 Jun 2018 10:41:15 GMT</pubDate>
+      <author>Srinivasa Dinesh Parupalli</author>
+      <description>Mapster a fast, fun and stimulating object to object mapper.</description>
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Free Marketing Tools Every Small Business Marketer Should Try</title>
+      <link>https://www.forbes.com/sites/briansutter/2018/06/23/free-marketing-tools-every-small-business-marketer-should-try/</link>
+      <guid isPermaLink="false">flipboard-IRIt_RbATBaan_Cqbuyj2g:a:1376366263-1529836652</guid>
+      <pubDate>Sun, 24 Jun 2018 10:37:32 GMT</pubDate>
+      <author>Brian Sutter</author>
+      <description>Got big plans for your small business, but only a tiny marketing budget? You’re not alone. According to the Wasp Barcode Small Business Report, 42% of small businesses invest 3% or less of their revenue into marketing.&#x26;lt;p&#x26;gt;But maybe that isn’t such a big problem. With these small business marketing …</description>
+      <media:content url="https://cdn.flipboard.com/forbes.com/a44686c580bd6a59d9d9bc5c8c2f500c335dbb6f/original.jpg" medium="image" type="image/jpeg" width="640" height="640" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Chatfuel by Chatfuel</title>
+      <link>https://chatfuel.com/</link>
+      <guid isPermaLink="false">flipboard-P2fx-3MoTSaGp7PlpNltuw:a:1376366263-1529836550</guid>
+      <pubDate>Sun, 24 Jun 2018 10:35:50 GMT</pubDate>
+      <description>Relationship-based Messenger marketing&#x26;lt;p&#x26;gt;Create a Messenger bot for marketing, sales and support on the world’s leading chatbot platform. Get started …</description>
+      <media:content url="https://chatfuel.com/static/landing/v3/images/iphone.jpg" medium="image" type="image/jpeg" width="2309" height="1729" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Is Joplin a Serious Open Source Evernote Alternative?</title>
+      <link>https://hackernoon.com/is-joplin-a-serious-open-source-evernote-alternative-989944b1aa69?gi=e9081a501db&#x26;source=rss----3a8144eabfe3---4</link>
+      <guid isPermaLink="false">flipboard-U99LGUglQjyv3scUH-SpCw:a:1376366263-1529836187</guid>
+      <pubDate>Sun, 24 Jun 2018 10:29:47 GMT</pubDate>
+      <author>Open School Solutions</author>
+      <description>Many people probably know Evernote or OneNote — two sophisticated note management applications with many great features. One advantage — especially …</description>
+      <media:content url="https://cdn-images-1.medium.com/max/2000/1*koQWEl13CWVLPNkkrP6ExQ.jpeg" medium="image" type="image/jpeg" width="2000" height="1182" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Serverless WebSockets with AWS Lambda &#x26; Fanout</title>
+      <link>https://hackernoon.com/serverless-websockets-with-aws-lambda-fanout-15384bd30354</link>
+      <guid isPermaLink="false">flipboard-ZVXpT1axQaGOHbev13T51w:a:1376366263-1529836066</guid>
+      <pubDate>Sun, 24 Jun 2018 10:27:46 GMT</pubDate>
+      <author>Justin Baker</author>
+      <description>The basics of adding realtime data push to your serverless backend&#x26;lt;p&#x26;gt;Serverless&#x26;lt;p&#x26;gt;&#x26;lt;b&#x26;gt;Serverless&#x26;lt;/b&#x26;gt; is one of the developer world’s most popular misnomers. …</description>
+      <media:content url="https://cdn-images-1.medium.com/max/1600/1*7E34GI5o4JqrMqbXkmL3Gw.png" medium="image" type="image/png" width="1022" height="418" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>How to build a real-time editable data table in Vue.js</title>
+      <link>https://medium.freecodecamp.org/how-to-build-a-real-time-editable-data-table-in-vue-js-46b7f0b11684</link>
+      <guid isPermaLink="false">flipboard-CkQQ8ReaTVu03mlv5T_79g:a:1376366263-1529755765</guid>
+      <pubDate>Sat, 23 Jun 2018 12:09:25 GMT</pubDate>
+      <author>Peter Mbanugo</author>
+      <description>Photo by Franki Chamaki on UnsplashIn data-driven applications, a data table is used to display data in a tabular format with the ability to edit and …</description>
+      <media:content url="https://cdn-images-1.medium.com/max/1024/1*1LI9TzwDU1l6IyJFBRcULw.jpeg" medium="image" type="image/jpeg" width="1024" height="768" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Getting started with Docker and Kubernetes on Windows 10</title>
+      <link>https://hackernoon.com/getting-started-with-docker-and-kubernetes-on-windows-10-40017e2b69ff?gi=5d96f8bd0a08&#x26;source=rss----3a8144eabfe3---4</link>
+      <guid isPermaLink="false">flipboard-YYzCVR5kQLO-Mvl7As-w8w:a:1376366263-1529751205</guid>
+      <pubDate>Sat, 23 Jun 2018 10:53:25 GMT</pubDate>
+      <author>Keith Mifsud</author>
+      <description>Getting started with Docker and Kubernetes on Windows can be daunting when you don’t know where to begin.&#x26;lt;p&#x26;gt;And it doesn’t help that installing the …</description>
+      <media:content url="https://cdn-images-1.medium.com/max/1600/0*0khkK9pqm_hpHg0a.png" medium="image" type="image/png" width="1600" height="1165" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>AI researchers allege that machine learning is alchemy</title>
+      <link>http://www.sciencemag.org/news/2018/05/ai-researchers-allege-machine-learning-alchemy?es_p=6976017</link>
+      <guid isPermaLink="false">flipboard-huJyJtDkRV-nqQ2iVpr4gg:a:1376366263-1529751005</guid>
+      <pubDate>Sat, 23 Jun 2018 10:50:05 GMT</pubDate>
+      <author>Matthew Hutson</author>
+      <description>Ali Rahimi, a researcher in artificial intelligence (AI) at Google in San Francisco, California, took a swipe at his field last December—and received …</description>
+      <media:content url="http://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/ma_0504_NID_alchemy_WEB.jpg?itok=OzWhcdrK" medium="image" type="image/jpeg" width="450" height="253" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>MySQL High Availability at GitHub</title>
+      <link>https://githubengineering.com/mysql-high-availability-at-github/</link>
+      <guid isPermaLink="false">flipboard-xGPDb1BoTSudmzNluUJ0tA:a:1376366263-1529607555</guid>
+      <pubDate>Thu, 21 Jun 2018 18:59:15 GMT</pubDate>
+      <author>Shlomi Noach</author>
+      <description>GitHub uses MySQL as its main datastore for all things non-git, and its availability is critical to GitHub’s operation. The site itself, GitHub’s …</description>
+      <media:content url="https://githubengineering.com/images/mysql-high-availability-at-github/sample-3dc-topology.png" medium="image" type="image/png" width="2074" height="994" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>DotNetify-React Released: Build Reactive MVVM Apps with React + SignalR .NET Core 2.1</title>
+      <link>https://hackernoon.com/https-hackernoon-com-dotnetify-react-released-efc7de44a47e</link>
+      <guid isPermaLink="false">flipboard-fVymGv-8SQyvoNJ93y0eCQ:a:1376366263-1528316521</guid>
+      <pubDate>Wed, 06 Jun 2018 20:22:01 GMT</pubDate>
+      <author>Dicky Suryadi</author>
+      <description>After more than a year in beta, I’m thrilled to announce dotNetify-React is finally released (v3.0) and ready to be used on web apps with back-ends …</description>
+      <media:content url="https://cdn-images-1.medium.com/max/1600/0*T7ZdOrPqK2NwgoWf.gif" medium="image" type="image/gif" width="782" height="505" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Google’s Selfish Ledger is an unsettling vision of Silicon Valley social engineering</title>
+      <link>https://www.theverge.com/2018/5/17/17344250/google-x-selfish-ledger-video-data-privacy</link>
+      <guid isPermaLink="false">flipboard-dpzQ1PQ0QnuzKHPrCtDOBw:a:1376366263-1526889577</guid>
+      <pubDate>Mon, 21 May 2018 07:59:37 GMT</pubDate>
+      <author>Vlad Savov</author>
+      <description>This internal video from 2016 shows a Google concept for how total data collection could reshape society&#x26;lt;p&#x26;gt;Google has built a multibillion-dollar business out of knowing everything about its users. Now, a video produced within Google and obtained by &#x26;lt;i&#x26;gt;The Verge&#x26;lt;/i&#x26;gt; offers a stunningly ambitious and …</description>
+      <media:content url="https://cdn.flipboard.com/vox-cdn.com/e4f37eef53b87e4972b0cd10c2338a07692b1277/original.jpg" medium="image" type="image/jpeg" width="1218" height="700" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Top 12 project management certifications for 2018</title>
+      <link>https://www.cio.com/article/3210765/certifications/top-project-management-certifications.html</link>
+      <guid isPermaLink="false">flipboard-CmDPx-yzSjSpx_LFJNAV4A:a:1376366263-1526305148</guid>
+      <pubDate>Mon, 14 May 2018 13:39:08 GMT</pubDate>
+      <author>Sharon Florentine</author>
+      <description>Behind every successful IT project, you'll find a highly skilled project manager. From hardware and software upgrades to ongoing security patches, to …</description>
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Some madman built a Mario Kart clone in pure CSS</title>
+      <link>https://thenextweb.com/dd/2018/05/08/some-madman-built-a-mario-kart-clone-in-pure-css/</link>
+      <guid isPermaLink="false">flipboard-HBUwbgTeSlmFFeRx0_zzfQ:a:1376366263-1526245305</guid>
+      <pubDate>Sun, 13 May 2018 21:01:45 GMT</pubDate>
+      <author>Matthew Hughes</author>
+      <description>Historically, CSS has been used for one thing: decorating webpages. But later versions of the stylesheet language have added extra bells and whistles, allowing developers to do more ambitious (and, dare I say, bonkers) things.&#x26;lt;p&#x26;gt;Case in point: London-based developer Stephen Cook built a barebones …</description>
+      <media:content url="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/mariokart.png" medium="image" type="image/png" width="1076" height="534" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Google Maps Platform arrives with pay-as-you-go billing, free support, and Cloud requirement starting June 11</title>
+      <link>https://venturebeat.com/2018/05/02/google-maps-platform-arrives-with-pay-as-you-go-billing-free-support-and-cloud-requirement-starting-june-11/</link>
+      <guid isPermaLink="false">flipboard-5RnPSbhpTda9F6fzZRhSuw:a:1376366263-1525296200</guid>
+      <pubDate>Wed, 02 May 2018 21:23:20 GMT</pubDate>
+      <author>Emil Protalinski</author>
+      <description>Google today announced a massive revamp of its Google Maps business: The new Google Maps Platform promises streamlined API products, a simplified customer experience, a single pricing plan with pay-as-you-go billing, free support, a single console, and new industry solutions. The catch? Starting on …</description>
+      <media:content url="https://cdn.flipboard.com/venturebeat.com/8a352305db19ce8d8b22475124a91fe0c7299125/original.jpg" medium="image" type="image/jpeg" width="1024" height="760" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Cloud vendor free tiers compared: AWS vs Azure vs Google Cloud</title>
+      <link>https://www.computerworlduk.com/cloud-computing/cloud-vendor-free-tiers-compared-aws-vs-azure-vs-google-cloud-3676667/</link>
+      <guid isPermaLink="false">flipboard-chE9CkLOQ52_fjyImqetpw:a:1376366263-1525296073</guid>
+      <pubDate>Wed, 02 May 2018 21:21:13 GMT</pubDate>
+      <author>Scott Carey</author>
+      <description>A comparison of the major cloud infrastructure provider’s free tier options, from the generous to not-so generous</description>
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>How to break a Monolith into Microservices</title>
+      <link>https://martinfowler.com/articles/break-monolith-into-microservices.html</link>
+      <guid isPermaLink="false">flipboard-q2UqfvwPSOWkIcQjPAUCoQ:a:1376366263-1524685378</guid>
+      <pubDate>Wed, 25 Apr 2018 19:42:58 GMT</pubDate>
+      <description>As monolithic systems become too large to deal with, many enterprises are drawn to breaking them down into the microservices architectural style. It …</description>
+      <media:content url="https://martinfowler.com/articles/break-monolith-into-microservices/sketch.png" medium="image" type="image/png" width="641" height="320" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Serverless On-Premises: Does It Make Sense?</title>
+      <link>https://stacksense.io/krishnan/platforms/serverless-on-premises-does-it-make-sense/</link>
+      <guid isPermaLink="false">flipboard-CDStv1jlRnuTXSFrqreX6g:a:1376366263-1524684730</guid>
+      <pubDate>Wed, 25 Apr 2018 19:32:10 GMT</pubDate>
+      <description>There is quite a bit of chatter around deploying Serverless platforms on-premises either on their traditional virtualized infrastructure or private …</description>
+      <media:content url="https://i2.wp.com/stacksense.io/wp-content/uploads/2018/04/summer-deals.png?fit=560%2C315&#x26;ssl=1" medium="image" type="image/png" width="560" height="315" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Create a standalone Azure Service Fabric cluster</title>
+      <link>https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-cluster-creation-for-windows-server</link>
+      <guid isPermaLink="false">flipboard-AbaR-ZMvTcGWe5phA6p0sg:a:1376366263-1524636423</guid>
+      <pubDate>Wed, 25 Apr 2018 06:07:03 GMT</pubDate>
+      <author>dkkapur</author>
+      <description>Create a standalone cluster running on Windows Server&#x26;lt;p&#x26;gt;6 minutes to read&#x26;lt;p&#x26;gt;Contributors&#x26;lt;p&#x26;gt;You can use Azure Service Fabric to create Service Fabric clusters …</description>
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>The best Windows hosting services of 2018</title>
+      <link>http://va.newsrepublic.net/article/i6526992573985194506?app_id=1239&#x26;c=sys&#x26;gid=6526992573985194506&#x26;impr_id=6547679878806784265&#x26;language=en&#x26;language=en&#x26;region=us&#x26;user_id=6508779040097190922</link>
+      <guid isPermaLink="false">flipboard-mGELApBaQUW2dRx7jW3UgA:a:1376366263-1524500598</guid>
+      <pubDate>Mon, 23 Apr 2018 16:23:18 GMT</pubDate>
+      <description>Linux servers just don't hit the spot? We've got some quality Windows alternatives.&#x26;lt;p&#x26;gt;Most web hosting packages run on Linux servers, and it's easy to …</description>
+      <media:content url="http://p0.ipstatp.com/large/005a9488ae83c09379de" medium="image" width="640" height="360" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Which Android Phones offer the Best Value for Money?</title>
+      <link>http://va.newsrepublic.net/article/i6545800987599176202?app_id=1239&#x26;c=sys&#x26;gid=6545800987599176202&#x26;impr_id=6547159755297655050&#x26;language=en&#x26;language=en&#x26;region=us&#x26;user_id=6508779040097190922</link>
+      <guid isPermaLink="false">flipboard-RRVRxJKRR4elQrwOeOGRMg:a:1376366263-1524379490</guid>
+      <pubDate>Sun, 22 Apr 2018 06:44:50 GMT</pubDate>
+      <description>Make no mistake, the Android market is being dominated by premium handsets at present. To this end, we’ve just seen the release of Samsung’s Galaxy …</description>
+      <media:content url="http://p0.ipstatp.com/large/005accce87c640a321a4" medium="image" width="640" height="360" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Event Sourcing | Event Logging – An essential Microservice Pattern</title>
+      <link>https://blog.couchbase.com/event-sourcing-event-logging-an-essential-microservice-pattern/</link>
+      <guid isPermaLink="false">flipboard-kaNhJcVHSDa5WXXDyyPEEg:a:1376366263-1524242294</guid>
+      <pubDate>Fri, 20 Apr 2018 16:38:14 GMT</pubDate>
+      <description>As I mentioned in my previous post about how to fail with microservices, debugging a distributed system is a challenging task. Many things can wrong, …</description>
+      <media:content url="https://blog.couchbase.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-11-at-4.59.17-PM.png" medium="image" type="image/png" width="1018" height="798" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Blazor 0.2.0 release now available</title>
+      <link>https://blogs.msdn.microsoft.com/webdev/2018/04/17/blazor-0-2-0-release-now-available/</link>
+      <guid isPermaLink="false">flipboard-BhtT0yETQ06DPwkcYN56gw:a:1376366263-1524077691</guid>
+      <pubDate>Wed, 18 Apr 2018 18:54:51 GMT</pubDate>
+      <author>by Daniel Roth // 8 Comments</author>
+      <description>Just a few weeks ago we announced the first preview release of an experimental web UI framework called Blazor. Blazor enables full-stack web …</description>
+      <media:content url="https://msdnshared.blob.core.windows.net/media/2018/03/blazor-survey.png" medium="image" type="image/png" width="1282" height="440" />
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>A developer always pays their technical debts – oh, every penny... but never a groat more</title>
+      <link>https://www.theregister.co.uk/2018/04/12/measuring_technical_debt/</link>
+      <guid isPermaLink="false">flipboard-oqX7DTcCSk6yOCQjAzAhVg:a:1376366263-1523561281</guid>
+      <pubDate>Thu, 12 Apr 2018 19:28:01 GMT</pubDate>
+      <author>Danny Bradbury</author>
+      <description>But how to measure that? Your team is waitingPicture the scene: you're a developer looking at someone else's code for the first time, and you can see …</description>
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>The Full-Stack UX Design Platform</title>
+      <link>https://www.uxpin.com/</link>
+      <guid isPermaLink="false">flipboard-IkVbkdMsTtm2mkqROxn64g:a:1376366263-1523449737</guid>
+      <pubDate>Wed, 11 Apr 2018 12:28:57 GMT</pubDate>
+      <description></description>
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>The State Of Cloud Business Intelligence, 2018</title>
+      <link>https://www.forbes.com/sites/louiscolumbus/2018/04/08/the-state-of-cloud-business-intelligence-2018/?unique_ID=636588072572175119</link>
+      <guid isPermaLink="false">flipboard-S3CNcA9FTIKJtjJG--OqZQ:a:1376366263-1523389850</guid>
+      <pubDate>Tue, 10 Apr 2018 19:50:50 GMT</pubDate>
+      <author>Louis Columbus</author>
+      <description>• Cloud BI adoption is soaring in 2018, nearly doubling 2016 adoption levels.&#x26;lt;br&#x26;gt;• Over 90% of Sales &#x26; Marketing teams say that Cloud BI is essential for getting their work done in 2018, leading all categories in the survey.&#x26;lt;br&#x26;gt;• 66% of organizations that consider themselves completely successful with Business …</description>
+      <media:content url="https://cdn.flipboard.com/forbes.com/c06737569a71ea65004adff81496904d96cb95e0/original.jpg" medium="image" type="image/jpeg" width="5227" height="3267" />
+      <category domain=""></category>
+    </item>
+    </channel>
+</rss>

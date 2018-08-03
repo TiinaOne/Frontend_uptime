@@ -1,0 +1,50 @@
+html{
+    
+    column-count: 3;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+div{
+    margin-bottom: 5%;
+    margin-top: 5%;
+    position: relative;
+    
+}
+div#content{
+    display: inline-block;
+}
+a{
+    color: #000;
+    text-decoration: none;  
+    font-weight: bold;
+}
+img{
+    float: right;
+    width: 170px;
+    height: 165px;
+}
+
+
+/*--  Media  --*/
+@media (max-width: 920px) {
+    html{
+        column-count: 2;
+    }
+}
+@media (max-width: 500px) {
+    html{
+        column-count: 1;
+        overflow-x: hidden;
+    }
+    img{
+        float: left;
+        width: 100px;
+        height: 100px;
+    }
+    #desc{
+        display:none;
+    }
+      
+}
+
